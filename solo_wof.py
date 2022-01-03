@@ -1,8 +1,4 @@
-"""
-Author: Atahan Kucuk
-Description:
-   This is an application to play a game of wheel of fortune. 
-"""
+
 
 import random 
 #Picks a sentence randomly from the file phrases.txt
